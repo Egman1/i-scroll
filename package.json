@@ -1,18 +1,7 @@
 {
-  "name": "iscroll",
+  "name": "@egman1/i-scroll",
   "description": "Smooth scrolling for the web",
-  "version": "5.2.0-snapshot",
-  "homepage": "http://iscrolljs.com",
-  "author": "Matteo Spinelli <matteo@cubiq.org> (http://cubiq.org)",
-  "keywords": [
-    "scrolling",
-    "carousel",
-    "zoom",
-    "iphone",
-    "android",
-    "mobile",
-    "desktop"
-  ],
+  "version": "5.3.4",
   "main": "build/iscroll.js",
   "devDependencies": {
     "jshint": "~2.9.1",
@@ -20,10 +9,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/cubiq/iscroll.git"
+    "url": "https://github.com/egman1/i-scroll.git"
   },
   "bugs": {
-    "url": "https://github.com/cubiq/iscroll/issues"
+    "url": "https://github.com/egman1/i-scroll/issues"
   },
   "license": "MIT"
 }
